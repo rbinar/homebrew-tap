@@ -12,7 +12,7 @@ cask "mac-powertoys" do
     strategy :github_latest
   end
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "MacPowerToys.app"
 
