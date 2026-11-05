@@ -1,6 +1,6 @@
 cask "mac-powertoys" do
-  version "2.2.0"
-  sha256 "5c9d8e0710cafd613581e68192a3414645c718a80c97f5aca02934f4cd943a7c"
+  version "2.3.0"
+  sha256 "1586faeba854e5d3d0c9159a555a7a7be56285b9bc466893082686182558bd3a"
 
   url "https://github.com/rbinar/mac-powertoys/releases/download/v#{version}/MacPowerToys-v#{version}.dmg"
   name "Mac PowerToys"
